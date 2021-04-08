@@ -1,4 +1,4 @@
-describe('The transportFee function', function(){
+describe('transportFee function', function(){
     
     it('should return fee for morning shift', function(){
         

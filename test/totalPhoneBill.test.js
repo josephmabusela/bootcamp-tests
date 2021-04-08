@@ -1,4 +1,4 @@
-describe('The totalPhoneBill function', function(){
+describe('totalPhoneBill function', function(){
     
     it('should return the total phone bill', function(){
         
