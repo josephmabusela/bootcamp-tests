@@ -3,6 +3,6 @@ describe('countRegNumber function' , function(){
         assert.equal(3, countRegNumber('CA 182736,CY 523519,CJ 812328'));
     });
     it("should return 2 for number plates in (CA 182736,CY 523519)" , function(){
-        assert.equal(2, countRegNumber('CA 182736,CY 523519,CJ 812328'));
+        assert.equal(2, countRegNumber('CA 182736,CY 523519'));
     });
 });
